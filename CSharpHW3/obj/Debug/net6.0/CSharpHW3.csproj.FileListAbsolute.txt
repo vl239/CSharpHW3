@@ -1,0 +1,15 @@
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/bin/Debug/net6.0/CSharpHW3
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/bin/Debug/net6.0/CSharpHW3.deps.json
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/bin/Debug/net6.0/CSharpHW3.runtimeconfig.json
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/bin/Debug/net6.0/CSharpHW3.dll
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/bin/Debug/net6.0/CSharpHW3.pdb
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/CSharpHW3.csproj.AssemblyReference.cache
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/CSharpHW3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/CSharpHW3.AssemblyInfoInputs.cache
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/CSharpHW3.AssemblyInfo.cs
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/CSharpHW3.csproj.CoreCompileInputs.cache
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/CSharpHW3.dll
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/refint/CSharpHW3.dll
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/CSharpHW3.pdb
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/CSharpHW3.genruntimeconfig.cache
+/Users/virginialu/Projects/CSharpHW3/CSharpHW3/obj/Debug/net6.0/ref/CSharpHW3.dll
